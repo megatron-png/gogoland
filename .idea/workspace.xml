@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="21f80a90-2897-417c-b6fe-b1d18f459319" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" path="/usr/lib/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1hKqKgwD1JO4DSUiivlhgJv3CEe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/projet.go" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager">
+    <configuration name="go build projet.go" type="GoApplicationRunConfiguration" factoryName="Go Application" nameIsGenerated="true">
+      <module name="projet" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/projet.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="760" y="184" key="#GOPATH" timestamp="1599772357859">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="760" y="184" key="#GOPATH/0.0.1920.1044@0.0.1920.1044" timestamp="1599772357859" />
+    <state x="636" y="347" width="638" height="349" key="#Notifications" timestamp="1599770686826">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="636" y="347" width="638" height="349" key="#Notifications/0.0.1920.1044@0.0.1920.1044" timestamp="1599770686826" />
+    <state x="418" y="180" width="1084" height="710" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599771218080">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="418" y="180" width="1084" height="710" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1044@0.0.1920.1044" timestamp="1599771218080" />
+    <state x="744" y="293" key="FileChooserDialogImpl" timestamp="1599771198778">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="744" y="293" key="FileChooserDialogImpl/0.0.1920.1044@0.0.1920.1044" timestamp="1599771198778" />
+    <state x="818" y="422" key="Github.ShareDialog" timestamp="1599772702062">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="818" y="422" key="Github.ShareDialog/0.0.1920.1044@0.0.1920.1044" timestamp="1599772702062" />
+    <state x="792" y="209" key="Github.UntrackedFilesDialog" timestamp="1599772775361">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="792" y="209" key="Github.UntrackedFilesDialog/0.0.1920.1044@0.0.1920.1044" timestamp="1599772775361" />
+    <state width="1872" height="275" key="GridCell.Tab.0.bottom" timestamp="1599772585639">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state width="1872" height="275" key="GridCell.Tab.0.bottom/0.0.1920.1044@0.0.1920.1044" timestamp="1599772585639" />
+    <state width="1872" height="275" key="GridCell.Tab.0.center" timestamp="1599772585638">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state width="1872" height="275" key="GridCell.Tab.0.center/0.0.1920.1044@0.0.1920.1044" timestamp="1599772585638" />
+    <state width="1872" height="275" key="GridCell.Tab.0.left" timestamp="1599772585638">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state width="1872" height="275" key="GridCell.Tab.0.left/0.0.1920.1044@0.0.1920.1044" timestamp="1599772585638" />
+    <state width="1872" height="275" key="GridCell.Tab.0.right" timestamp="1599772585639">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state width="1872" height="275" key="GridCell.Tab.0.right/0.0.1920.1044@0.0.1920.1044" timestamp="1599772585639" />
+    <state x="434" y="157" key="SettingsEditor" timestamp="1599770720022">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="434" y="157" key="SettingsEditor/0.0.1920.1044@0.0.1920.1044" timestamp="1599770720022" />
+    <state x="623" y="241" key="search.everywhere.popup" timestamp="1599770115945">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="623" y="241" key="search.everywhere.popup/0.0.1920.1044@0.0.1920.1044" timestamp="1599770115945" />
+  </component>
+</project>
